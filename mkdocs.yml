@@ -1,4 +1,4 @@
-site_name: Casey Starter
+site_name: Arresting Inequality
 theme_dir: theme
 theme: null
 copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
@@ -6,4 +6,11 @@ repo_url: https://github.com/cthieryung/his4936-starter/
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
+- Source Analysis: 'Source Analysis.md'
+- Proposal: 'Proposal.md'
+- Transparency Report: 'Transparency Report.md'
+- Digital Methods and Historical Scholarship: 'Digital Methods and Historical Scholarship.md'
+- Bibliography: 'Bibliography.md'
+- Next Steps: 'Next Steps.md'
+
 - Credits: 'credits.md'
